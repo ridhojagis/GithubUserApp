@@ -1,0 +1,117 @@
+<resources>
+
+    <string-array name="name">
+        <item>JP Simard</item>
+        <item>Liam Galvin</item>
+        <item>Hanno Braun</item>
+        <item>Ryan Bates</item>
+        <item>Mariusz Nowak</item>
+        <item>Danilo Woznica</item>
+        <item>Jason Quense</item>
+        <item>Daniel Rosenwasser</item>
+        <item>Iman khoshabi</item>
+        <item>Sylvain Gugger</item>
+    </string-array>
+
+    <string-array name="username">
+        <item>jpsim</item>
+        <item>liamg</item>
+        <item>hannobraun</item>
+        <item>ryanb</item>
+        <item>medikoo</item>
+        <item>danilowoz</item>
+        <item>jquense</item>
+        <item>DanielRosenwasser</item>
+        <item>imaNNeoFighT</item>
+        <item>sgugger</item>
+    </string-array>
+
+    <integer-array name="followers">
+        <item>1800</item>
+        <item>784</item>
+        <item>245</item>
+        <item>1400</item>
+        <item>1200</item>
+        <item>874</item>
+        <item>473</item>
+        <item>920</item>
+        <item>1543</item>
+        <item>1800</item>
+    </integer-array>
+
+    <integer-array name="following">
+        <item>42</item>
+        <item>85</item>
+        <item>61</item>
+        <item>50</item>
+        <item>36</item>
+        <item>32</item>
+        <item>39</item>
+        <item>32</item>
+        <item>74</item>
+        <item>3</item>
+    </integer-array>
+
+    <string-array name="avatar">
+        <item>@drawable/user_1</item>
+        <item>@drawable/user_2</item>
+        <item>@drawable/user_3</item>
+        <item>@drawable/user_4</item>
+        <item>@drawable/user_5</item>
+        <item>@drawable/user_6</item>
+        <item>@drawable/user_7</item>
+        <item>@drawable/user_8</item>
+        <item>@drawable/user_9</item>
+        <item>@drawable/user_10</item>
+    </string-array>
+
+    <string-array name="location">
+        <item>Montreal</item>
+        <item>New Forest, UK</item>
+        <item>Michelstadt, Odenwald, Germany</item>
+        <item>Southern Oregon</item>
+        <item>Warsaw, Poland</item>
+        <item>-</item>
+        <item>New Jersey</item>
+        <item>Seattle, WA</item>
+        <item>Southern Oregon</item>
+        <item>New Yor, Paris</item>
+
+    </string-array>
+
+    <string-array name="company">
+        <item>iOS</item>
+        <item>aquasecurity</item>
+        <item>self-employed</item>
+        <item>RailsCasts</item>
+        <item>-</item>
+        <item>codesandbox</item>
+        <item>-</item>
+        <item>microsoft</item>
+        <item>Google</item>
+        <item>AI Community</item>
+    </string-array>
+
+    <integer-array name="repository">
+        <item>130</item>
+        <item>37</item>
+        <item>59</item>
+        <item>61</item>
+        <item>263</item>
+        <item>48</item>
+        <item>220</item>
+        <item>149</item>
+        <item>70</item>
+        <item>32</item>
+    </integer-array>
+
+    <string name="app_name">Github User App</string>
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+    <string name="location">Location</string>
+    <string name="follower">%d Followers •</string>
+    <string name="following">%d Following</string>
+    <string name="repository">%d Repository</string>
+    <string name="avatar">Avatar</string>
+
+</resources>
